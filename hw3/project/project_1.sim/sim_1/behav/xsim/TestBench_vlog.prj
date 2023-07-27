@@ -1,0 +1,24 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../../../計組/hw3/ALU.v" \
+"../../../../../../計組/hw3/ALU_1bit.v" \
+"../../../../../../計組/hw3/ALU_Ctrl.v" \
+"../../../../../../計組/hw3/Adder.v" \
+"../../../../../../計組/hw3/Decoder.v" \
+"../../../../../../計組/hw3/Full_adder.v" \
+"../../../../../../計組/hw3/Instr_Memory.v" \
+"../../../../../../計組/hw3/Mux2to1.v" \
+"../../../../../../計組/hw3/Mux3to1.v" \
+"../../../../../../計組/hw3/Program_Counter.v" \
+"../../../../../../計組/hw3/Reg_File.v" \
+"../../../../../../計組/hw3/Shifter.v" \
+"../../../../../../計組/hw3/Sign_Extend.v" \
+"../../../../../../計組/hw3/Simple_Single_CPU.v" \
+"../../../../../../計組/hw3/Zero_Filled.v" \
+"../../../../../../計組/hw3/TestBench.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

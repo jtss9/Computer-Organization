@@ -1,0 +1,130 @@
+Vivado Simulator v2020.3.0
+Copyright 1986-1999, 2001-2021 Xilinx, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2020.3/bin/unwrapped/win64.o/xelab.exe -wto f886a9782a8c4f7bbf0d88ad81807401 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L unisims_ver -L secureip --snapshot TestBench_behav xil_defaultlib.TestBench xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+Completed static elaboration
+Starting simulation data flow analysis
+WARNING: [XSIM 43-4099] "C:/Users/User/Desktop/計組/hw3/Simple_Single_CPU.v" Line 1. Module Simple_Single_CPU doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/User/Desktop/計組/hw3/Program_Counter.v" Line 1. Module Program_Counter doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/User/Desktop/計組/hw3/Adder.v" Line 1. Module Adder doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/User/Desktop/計組/hw3/Instr_Memory.v" Line 1. Module Instr_Memory doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/User/Desktop/計組/hw3/Mux2to1.v" Line 1. Module Mux2to1(size=5) doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/User/Desktop/計組/hw3/Reg_File.v" Line 1. Module Reg_File doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/User/Desktop/計組/hw3/Decoder.v" Line 1. Module Decoder doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/User/Desktop/計組/hw3/ALU_Ctrl.v" Line 1. Module ALU_Ctrl doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/User/Desktop/計組/hw3/Sign_Extend.v" Line 1. Module Sign_Extend doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/User/Desktop/計組/hw3/Zero_Filled.v" Line 1. Module Zero_Filled doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/User/Desktop/計組/hw3/Mux2to1.v" Line 1. Module Mux2to1(size=32) doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/User/Desktop/計組/hw3/ALU.v" Line 1. Module ALU_default doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/User/Desktop/計組/hw3/ALU_1bit.v" Line 1. Module ALU_1bit doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/User/Desktop/計組/hw3/Full_adder.v" Line 1. Module Full_adder doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/User/Desktop/計組/hw3/ALU_1bit.v" Line 1. Module ALU_1bit doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/User/Desktop/計組/hw3/Full_adder.v" Line 1. Module Full_adder doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/User/Desktop/計組/hw3/ALU_1bit.v" Line 1. Module ALU_1bit doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/User/Desktop/計組/hw3/Full_adder.v" Line 1. Module Full_adder doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/User/Desktop/計組/hw3/ALU_1bit.v" Line 1. Module ALU_1bit doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/User/Desktop/計組/hw3/Full_adder.v" Line 1. Module Full_adder doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/User/Desktop/計組/hw3/ALU_1bit.v" Line 1. Module ALU_1bit doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/User/Desktop/計組/hw3/Full_adder.v" Line 1. Module Full_adder doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/User/Desktop/計組/hw3/ALU_1bit.v" Line 1. Module ALU_1bit doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/User/Desktop/計組/hw3/Full_adder.v" Line 1. Module Full_adder doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/User/Desktop/計組/hw3/ALU_1bit.v" Line 1. Module ALU_1bit doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/User/Desktop/計組/hw3/Full_adder.v" Line 1. Module Full_adder doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/User/Desktop/計組/hw3/ALU_1bit.v" Line 1. Module ALU_1bit doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/User/Desktop/計組/hw3/Full_adder.v" Line 1. Module Full_adder doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/User/Desktop/計組/hw3/ALU_1bit.v" Line 1. Module ALU_1bit doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/User/Desktop/計組/hw3/Full_adder.v" Line 1. Module Full_adder doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/User/Desktop/計組/hw3/ALU_1bit.v" Line 1. Module ALU_1bit doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/User/Desktop/計組/hw3/Full_adder.v" Line 1. Module Full_adder doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/User/Desktop/計組/hw3/ALU_1bit.v" Line 1. Module ALU_1bit doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/User/Desktop/計組/hw3/Full_adder.v" Line 1. Module Full_adder doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/User/Desktop/計組/hw3/ALU_1bit.v" Line 1. Module ALU_1bit doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/User/Desktop/計組/hw3/Full_adder.v" Line 1. Module Full_adder doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/User/Desktop/計組/hw3/ALU_1bit.v" Line 1. Module ALU_1bit doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/User/Desktop/計組/hw3/Full_adder.v" Line 1. Module Full_adder doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/User/Desktop/計組/hw3/ALU_1bit.v" Line 1. Module ALU_1bit doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/User/Desktop/計組/hw3/Full_adder.v" Line 1. Module Full_adder doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/User/Desktop/計組/hw3/ALU_1bit.v" Line 1. Module ALU_1bit doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/User/Desktop/計組/hw3/Full_adder.v" Line 1. Module Full_adder doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/User/Desktop/計組/hw3/ALU_1bit.v" Line 1. Module ALU_1bit doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/User/Desktop/計組/hw3/Full_adder.v" Line 1. Module Full_adder doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/User/Desktop/計組/hw3/ALU_1bit.v" Line 1. Module ALU_1bit doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/User/Desktop/計組/hw3/Full_adder.v" Line 1. Module Full_adder doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/User/Desktop/計組/hw3/ALU_1bit.v" Line 1. Module ALU_1bit doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/User/Desktop/計組/hw3/Full_adder.v" Line 1. Module Full_adder doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/User/Desktop/計組/hw3/ALU_1bit.v" Line 1. Module ALU_1bit doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/User/Desktop/計組/hw3/Full_adder.v" Line 1. Module Full_adder doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/User/Desktop/計組/hw3/ALU_1bit.v" Line 1. Module ALU_1bit doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/User/Desktop/計組/hw3/Full_adder.v" Line 1. Module Full_adder doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/User/Desktop/計組/hw3/ALU_1bit.v" Line 1. Module ALU_1bit doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/User/Desktop/計組/hw3/Full_adder.v" Line 1. Module Full_adder doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/User/Desktop/計組/hw3/ALU_1bit.v" Line 1. Module ALU_1bit doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/User/Desktop/計組/hw3/Full_adder.v" Line 1. Module Full_adder doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/User/Desktop/計組/hw3/ALU_1bit.v" Line 1. Module ALU_1bit doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/User/Desktop/計組/hw3/Full_adder.v" Line 1. Module Full_adder doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/User/Desktop/計組/hw3/ALU_1bit.v" Line 1. Module ALU_1bit doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/User/Desktop/計組/hw3/Full_adder.v" Line 1. Module Full_adder doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/User/Desktop/計組/hw3/ALU_1bit.v" Line 1. Module ALU_1bit doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/User/Desktop/計組/hw3/Full_adder.v" Line 1. Module Full_adder doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/User/Desktop/計組/hw3/ALU_1bit.v" Line 1. Module ALU_1bit doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/User/Desktop/計組/hw3/Full_adder.v" Line 1. Module Full_adder doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/User/Desktop/計組/hw3/ALU_1bit.v" Line 1. Module ALU_1bit doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/User/Desktop/計組/hw3/Full_adder.v" Line 1. Module Full_adder doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/User/Desktop/計組/hw3/ALU_1bit.v" Line 1. Module ALU_1bit doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/User/Desktop/計組/hw3/Full_adder.v" Line 1. Module Full_adder doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/User/Desktop/計組/hw3/ALU_1bit.v" Line 1. Module ALU_1bit doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/User/Desktop/計組/hw3/Full_adder.v" Line 1. Module Full_adder doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/User/Desktop/計組/hw3/ALU_1bit.v" Line 1. Module ALU_1bit doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/User/Desktop/計組/hw3/Full_adder.v" Line 1. Module Full_adder doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/User/Desktop/計組/hw3/ALU_1bit.v" Line 1. Module ALU_1bit doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/User/Desktop/計組/hw3/Full_adder.v" Line 1. Module Full_adder doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/User/Desktop/計組/hw3/ALU_1bit.v" Line 1. Module ALU_1bit doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/User/Desktop/計組/hw3/Full_adder.v" Line 1. Module Full_adder doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/User/Desktop/計組/hw3/Shifter.v" Line 1. Module Shifter doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/User/Desktop/計組/hw3/Mux3to1.v" Line 1. Module Mux3to1(size=32) doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/User/Desktop/計組/hw3/Simple_Single_CPU.v" Line 1. Module Simple_Single_CPU doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/User/Desktop/計組/hw3/Program_Counter.v" Line 1. Module Program_Counter doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/User/Desktop/計組/hw3/Adder.v" Line 1. Module Adder doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/User/Desktop/計組/hw3/Instr_Memory.v" Line 1. Module Instr_Memory doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/User/Desktop/計組/hw3/Mux2to1.v" Line 1. Module Mux2to1(size=5) doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/User/Desktop/計組/hw3/Reg_File.v" Line 1. Module Reg_File doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/User/Desktop/計組/hw3/Decoder.v" Line 1. Module Decoder doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/User/Desktop/計組/hw3/ALU_Ctrl.v" Line 1. Module ALU_Ctrl doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/User/Desktop/計組/hw3/Sign_Extend.v" Line 1. Module Sign_Extend doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/User/Desktop/計組/hw3/Zero_Filled.v" Line 1. Module Zero_Filled doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/User/Desktop/計組/hw3/Mux2to1.v" Line 1. Module Mux2to1(size=32) doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/User/Desktop/計組/hw3/ALU.v" Line 1. Module ALU_default doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/User/Desktop/計組/hw3/ALU_1bit.v" Line 1. Module ALU_1bit doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/User/Desktop/計組/hw3/Full_adder.v" Line 1. Module Full_adder doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/User/Desktop/計組/hw3/ALU_1bit.v" Line 1. Module ALU_1bit doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/User/Desktop/計組/hw3/Full_adder.v" Line 1. Module Full_adder doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/User/Desktop/計組/hw3/ALU_1bit.v" Line 1. Module ALU_1bit doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/User/Desktop/計組/hw3/Full_adder.v" Line 1. Module Full_adder doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/User/Desktop/計組/hw3/ALU_1bit.v" Line 1. Module ALU_1bit doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/User/Desktop/計組/hw3/Full_adder.v" Line 1. Module Full_adder doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/User/Desktop/計組/hw3/ALU_1bit.v" Line 1. Module ALU_1bit doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/User/Desktop/計組/hw3/Full_adder.v" Line 1. Module Full_adder doesn't have a timescale but at least one module in design has a timescale.
+INFO: [Common 17-14] Message 'XSIM 43-4099' appears 100 times and further instances of the messages will be disabled. Use the Tcl command set_msg_config to change the current settings.
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.Program_Counter
+Compiling module xil_defaultlib.Adder
+Compiling module xil_defaultlib.Instr_Memory
+Compiling module xil_defaultlib.Mux2to1(size=5)
+Compiling module xil_defaultlib.Reg_File
+Compiling module xil_defaultlib.Decoder
+Compiling module xil_defaultlib.ALU_Ctrl
+Compiling module xil_defaultlib.Sign_Extend
+Compiling module xil_defaultlib.Zero_Filled
+Compiling module xil_defaultlib.Mux2to1(size=32)
+Compiling module xil_defaultlib.Full_adder
+Compiling module xil_defaultlib.ALU_1bit
+Compiling module xil_defaultlib.ALU_default
+Compiling module xil_defaultlib.Shifter
+Compiling module xil_defaultlib.Mux3to1(size=32)
+Compiling module xil_defaultlib.Simple_Single_CPU
+Compiling module xil_defaultlib.TestBench
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot TestBench_behav
